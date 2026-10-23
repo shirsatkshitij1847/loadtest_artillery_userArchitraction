@@ -1,0 +1,25 @@
+{
+  "scenario": "Login",
+  "startTime": "2026-08-02T18:04:35.026Z",
+  "endTime": "2026-08-02T18:04:40.133Z",
+  "duration": 5107,
+  "status": "Passed",
+  "users": [
+    {
+      "username": "user1",
+      "status": "Passed",
+      "steps": [
+        {
+          "name": "Open Google",
+          "status": "Passed",
+          "duration": 3454
+        },
+        {
+          "name": "Search",
+          "status": "Passed",
+          "duration": 85
+        }
+      ]
+    }
+  ]
+}

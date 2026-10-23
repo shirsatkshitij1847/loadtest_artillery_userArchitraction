@@ -1,0 +1,13 @@
+node_modules/
+
+.env
+.env.*
+!.env.example
+
+/test-results/
+/playwright-report/
+/bundle/
+/loadtest-playwright-project.zip
+
+*.log
+npm-debug.log*

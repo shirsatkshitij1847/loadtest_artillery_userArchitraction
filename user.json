@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "vuId": "VU-0001",
+    "username": "practice1",
+    "password": "SuperSecretPassword!",
+    "resourceName": "Machine-01"
+  },
+  {
+    "id": 2,
+    "vuId": "VU-0002",
+    "username": "practice2",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 3,
+    "vuId": "VU-0003",
+    "username": "practice3",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 4,
+    "vuId": "VU-0004",
+    "username": "practice4",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 5,
+    "vuId": "VU-0005",
+    "username": "practice5",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 6,
+    "vuId": "VU-0006",
+    "username": "practice6",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 7,
+    "vuId": "VU-0007",
+    "username": "practice7",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 8,
+    "vuId": "VU-0008",
+    "username": "practice8",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 9,
+    "vuId": "VU-0009",
+    "username": "practice9",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 10,
+    "vuId": "VU-0010",
+    "username": "practice10",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 11,
+    "vuId": "VU-0011",
+    "username": "practice11",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 12,
+    "vuId": "VU-0012",
+    "username": "practice12",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 13,
+    "vuId": "VU-0013",
+    "username": "practice13",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 14,
+    "vuId": "VU-0014",
+    "username": "practice14",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 15,
+    "vuId": "VU-0015",
+    "username": "practice15",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 16,
+    "vuId": "VU-0016",
+    "username": "practice16",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 17,
+    "vuId": "VU-0017",
+    "username": "practice17",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 18,
+    "vuId": "VU-0018",
+    "username": "practice18",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 19,
+    "vuId": "VU-0019",
+    "username": "practice19",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 20,
+    "vuId": "VU-0020",
+    "username": "practice20",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 21,
+    "vuId": "VU-0021",
+    "username": "practice21",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 22,
+    "vuId": "VU-0022",
+    "username": "practice22",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 23,
+    "vuId": "VU-0023",
+    "username": "practice23",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "id": 24,
+    "vuId": "VU-0024",
+    "username": "practice24",
+    "password": "SuperSecretPassword!"
+  }
+]
